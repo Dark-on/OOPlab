@@ -41,9 +41,7 @@ class SeaBoat{
 
 }//SeeBoat
 
-//rand.nextInt(49)+1
-
-public class Main{
+public class Lab4{
   public static void main(String[] args){
 
     String [] names = {"Clementina", "Ayvasovskiy", "Titanic", "Bismark", "Victoria"};
