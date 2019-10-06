@@ -1,1 +1,1 @@
-This is repository with java code of my laboratory works.
+This is repository with java code of my laboratory works. Subject that I learning is object-oriented programming - one of programming paradigms based on the concept of "objects", which can contain data, in the form of fields.
